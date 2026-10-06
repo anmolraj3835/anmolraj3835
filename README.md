@@ -1,10 +1,5 @@
 
 
-<!-- Typing animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Hi+there!+I'm+Anmol+%F0%9F%91%8B;Third-Year+B.Tech+AI+%26+ML+Student;I+build+end-to-end+ML+systems+in+Python;Forecasting+%7C+NLP+%7C+Text+Classification;Oracle+%26+IBM+Certified+%E2%9C%A8;Open+to+Software+%2F+AI-ML+Engineer+roles" alt="Typing SVG" />
-  </a>
 </div>
 
 <div align="center">
