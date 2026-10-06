@@ -1,5 +1,3 @@
-<!-- Header banner (animated wave) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anmol%20Raj&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20AI%20%26%20ML%20Student%20%7C%20Python%20Developer%20%7C%20Aspiring%20ML%20Engineer&descSize=18&descAlignY=58" />
 
 <!-- Typing animation -->
 <div align="center">
